@@ -1,6 +1,6 @@
-## Hi there 👋, my name is Tai.
-###### I am a Systems Engineer.
-![I am a Systems Engineer, mechanical engineer.](https://raw.githubusercontent.com/tainguyenbp/tainguyenbp/master/tainguyenbp.jpg)
+## Hi there 👋, my name is Tai
+###### I am a Systems Engineer
+![I am a Systems Engineer](https://raw.githubusercontent.com/tainguyenbp/tainguyenbp/master/tainguyenbp.jpg)
 
 Currently pursuing bachelor degree in Mechanical engineering. Open Source software excites me, and I am ever ready to learn more.
 
