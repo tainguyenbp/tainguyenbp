@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Tai from VietNam. :sunglasses: </h1>
+## Hello there 👋, I'm Tai from VietNam.
 ###### I am a Systems Engineer.
 ![I am a Systems Engineer, mechanical engineer.](https://raw.githubusercontent.com/tainguyenbp/tainguyenbp/master/tainguyenbp.jpg)
 
