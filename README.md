@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, my name is Tai. :sunglasses: </h1>
-<h1> I am a Systems Engineer </h1>
-![I am a Systems Engineer](https://raw.githubusercontent.com/tainguyenbp/tainguyenbp/master/tainguyenbp.jpg)
+<h1> I am a System Engineer </h1>
+![I am a System Engineer](https://raw.githubusercontent.com/tainguyenbp/tainguyenbp/master/tainguyenbp.jpg)
 
 Currently pursuing bachelor degree in Mechanical engineering. Open Source software excites me, and I am ever ready to learn more.
 
