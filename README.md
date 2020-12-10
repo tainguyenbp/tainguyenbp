@@ -1,7 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Tai from VietNam. :sunglasses: </h1>
-<h1> I am a System Engineer </h1>
 ###### I am a Systems Engineer.
-![I am a System Engineer](https://raw.githubusercontent.com/tainguyenbp/tainguyenbp/master/tainguyenbp.jpg)
+![I am a Systems Engineer, mechanical engineer.](https://raw.githubusercontent.com/tainguyenbp/tainguyenbp/master/tainguyenbp.jpg)
 
 Currently pursuing bachelor degree in Mechanical engineering. Open Source software excites me, and I am ever ready to learn more.
 
