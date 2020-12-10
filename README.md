@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Tai from VietNam.
+# Hello there 👋, My name is Tài from VietNam.
 ### I am a Systems Engineer.
 ![I am a Systems Engineer, mechanical engineer.](https://raw.githubusercontent.com/tainguyenbp/tainguyenbp/master/tainguyenbp.jpg)
 
