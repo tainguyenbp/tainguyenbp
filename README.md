@@ -9,8 +9,7 @@ Skills: Linux, Bash, Python, Prometheus, Docker, VMware.
 
 - 🔭 I’m currently working for a Technology Company.
 - 🌱 I’m currently learning about Linux and OpenSource.
-- 😄 Pronouns:
-- ⚡ Fun fact:
+- 😄 Hobbies : Football :soccer:, Swimming :swimmer:, Music :headphones: 🎧 
 
 ### Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/github.svg' alt='github' height='35'>](https://github.com/tainguyenbp) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/nguy%E1%BB%85n-ng%E1%BB%8Dc-t%C3%A0i-73760b144/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/instagram.svg' alt='instagram' height='35'>](https://www.instagram.com/rude_drax/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/twitter.svg' alt='twitter' height='35'>](https://twitter.com/nguyenngoctaibp)  [<img src='https://raw.githubusercontent.com/tainguyenbp/tainguyenbp/master/telegram-brands.svg' alt='telegram' height='35'>](https://t.me/nntaibpit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.1.0/icons/messenger.svg' alt='messenger' height='35'>](https://m.me/nntaibp.it)
