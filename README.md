@@ -15,7 +15,7 @@ Skills: Linux, Bash, Python
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tainguyenbp) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nguy%E1%BB%85n-ng%E1%BB%8Dc-t%C3%A0i-73760b144/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rude_drax/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nguyenngoctaibp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/nntaibpit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/messenger.svg' alt='messenger' height='40'>](https://m.me/nntaibp.it)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'> <h1 style="font-size:5vw;display: inline;">Arctic Code Vault Contributor</h1> </a>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40' style="display: inline;"> <h1 style="font-size:5vw;display: inline;">Arctic Code Vault Contributor</h1> </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tainguyenbp)](https://github.com/anuraghazra/github-readme-stats)
 
