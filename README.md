@@ -4,10 +4,10 @@
 
 Currently pursuing bachelor degree in Mechanical engineering. Open Source software excites me, and I am ever ready to learn more.
 
-Skills: Linux, Bash, Python
+Skills: Linux, Bash, Python, Prometheus, Docker, VMware
 
 - 🔭 I’m currently working on A portal to share books. 
-- 🌱 I’m currently learning React.js 
+- 🌱 I’m currently learning about Linux and OpenSource
 - 👯 I’m looking to collaborate on any project, just drop a DM. 
 - 😄 Pronouns: He/Him. 
 - ⚡ Fun fact: Into the Spiderverse is the absolute best animated movie of all time. 
