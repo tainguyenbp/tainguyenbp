@@ -1,5 +1,6 @@
 # Hello there 👋, my name is Tài from VietNam.
 ### I am a Systems Engineer.
+### My working corner at company.
 ![I am a Systems Engineer, mechanical engineer.](https://raw.githubusercontent.com/tainguyenbp/tainguyenbp/master/tainguyenbp.jpg)
 
 Currently pursuing bachelor degree in Computer Science. Open Source software excites me, and I am ever ready to learn more.
