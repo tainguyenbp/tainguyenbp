@@ -1,5 +1,5 @@
 # Hello there 👋, my name is Tài from VietNam.
-### I am a Systems Engineer.
+### I'm a System Engineer.
 ### My working corner at company.
 ![I am a Systems Engineer, mechanical engineer.](https://raw.githubusercontent.com/tainguyenbp/tainguyenbp/master/tainguyenbp.jpg)
 
@@ -19,6 +19,7 @@ Skills: Linux, Bash, Python, Prometheus, Docker, VMware.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tainguyenbp)](https://github.com/anuraghazra/github-readme-stats)
 
+### Contributing to Open-Source 🔥
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tainguyenbp&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/tainguyenbp)  
