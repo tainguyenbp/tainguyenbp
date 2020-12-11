@@ -5,7 +5,7 @@
 
 Currently pursuing bachelor degree in Computer Science. Open Source software excites me, and I am ever ready to learn more.
 
-Skills: Linux, Bash, Python, Prometheus, Docker, VMware.
+Skills: Linux, Bash, Python, Prometheus, Docker, VMware ...
 
 - 🔭 I’m currently working for a Technology Company.
 - 🌱 I’m currently learning about Linux and OpenSource.
