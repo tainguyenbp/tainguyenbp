@@ -8,7 +8,7 @@ Currently pursuing bachelor degree in Computer Science. Open Source software exc
 Skills: Linux, Bash, Python, Prometheus, Docker, VMware ...
 
 - 🔭 I’m currently working for a Technology Company.
-- 🌱 I’m currently learning about Linux and OpenSource.
+- 🌱 I’m currently learning about Linux, OpenSource, Kubernetes, Helm, Security, Golang.
 - 😄 Hobbies : Football :soccer:, Swimming :swimmer:, Jogging :runner:
 
 ### Connect with me:
