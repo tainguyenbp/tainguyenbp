@@ -5,7 +5,7 @@
 
 Currently pursuing bachelor degree in Computer Science. Open Source software excites me, and I am ever ready to learn more.
 
-Skills: Linux, Bash, Python, Ansible, Prometheus, PLG stack, Docker, VMware, GitlabCI, GitHub Actions ...
+Skills: Linux, Bash, Python, Ansible, Prometheus, PLG stack, Docker, Kubernetes, GitlabCI, GitHub Actions ...
 
 - 🔭 I’m currently working for a Technology Company.
 - 🌱 I’m currently learning about Linux, OpenSource, Kubernetes, Helm, Security, Golang.
