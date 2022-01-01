@@ -1,5 +1,4 @@
-# Happy New Year 2022 
-# Hello there 👋, my name is Tai from VietNam.
+# Happy New Year 2022. Hello there 👋, my name is Tai from VietNam.
 ### I'm a System Reboot Engineer.
 ### My working corner at company.
 ![I am a Systems Engineer, mechanical engineer.](https://raw.githubusercontent.com/tainguyenbp/tainguyenbp/master/tainguyenbp.jpg)
