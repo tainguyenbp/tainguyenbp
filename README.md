@@ -1,5 +1,7 @@
 # Hello there 👋
-### I'm a System Reboot Engineer.
+### I'm a Server Reboot Engineer from VietNam.
+
+On the way Site Reliability Engineer with Server Reboot Engineer experience as well as System Reboot Engineer and Service Restart Engineer experience.
 
 Currently pursuing bachelor degree in Computer Science. Open Source software excites me, and I am ever ready to learn more.
 
