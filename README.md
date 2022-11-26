@@ -1,13 +1,13 @@
-# Hello there 👋
-### I'm a Site Reliability Engineering from VietNam.
+# SGVsbG8gdGhlcmU= 👋
+### SSdtIGEgU2l0ZSBSZWxpYWJpbGl0eSBFbmdpbmVlcmluZyBmcm9tIFZpZXROYW0u
 
-On the way Site Reliability Engineer with Server Reboot Engineer experience as well as System Reboot Engineer and Service Restart Engineer experience.
+T24gdGhlIHdheSBTaXRlIFJlbGlhYmlsaXR5IEVuZ2luZWVyIHdpdGggU2VydmVyIFJlYm9vdCBFbmdpbmVlciBleHBlcmllbmNlIGFzIHdlbGwgYXMgU3lzdGVtIFJlYm9vdCBFbmdpbmVlciBhbmQgU2VydmljZSBSZXN0YXJ0IEVuZ2luZWVyIGV4cGVyaWVuY2Uu
 
-Currently pursuing bachelor degree in Computer Science. Open Source software excites me, and I am ever ready to learn more.
+Q3VycmVudGx5IHB1cnN1aW5nIGJhY2hlbG9yIGRlZ3JlZSBpbiBDb21wdXRlciBTY2llbmNlLiBPcGVuIFNvdXJjZSBzb2Z0d2FyZSBleGNpdGVzIG1lLCBhbmQgSSBhbSBldmVyIHJlYWR5IHRvIGxlYXJuIG1vcmUu
 
-Skills: Linux, Bash, Python, Ansible, Prometheus, PLG stack, Docker, Kubernetes, GitlabCI, GitHub Actions, Jenkins ...
+U2tpbGxzOiBMaW51eCwgQmFzaCwgUHl0aG9uLCBBbnNpYmxlLCBQcm9tZXRoZXVzLCBQTEcgc3RhY2ssIERvY2tlciwgS3ViZXJuZXRlcywgR2l0bGFiQ0ksIEdpdEh1YiBBY3Rpb25zLCBKZW5raW5zIC4uLg==
 
-- 🔭 I’m currently working for a Technology Company.
+- 🔭 I’m currently working for a e-commerce Company.
 - 🌱 I’m currently learning about Linux, OpenSource, Kubernetes, Helm, Security, Golang.
 - 😄 Hobbies : Football :soccer:, Swimming :swimmer:, Jogging :runner:
 
