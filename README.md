@@ -7,8 +7,8 @@ Q3VycmVudGx5IHB1cnN1aW5nIGJhY2hlbG9yIGRlZ3JlZSBpbiBDb21wdXRlciBTY2llbmNlLiBPcGVu
 
 U2tpbGxzOiBMaW51eCwgQmFzaCwgUHl0aG9uLCBBbnNpYmxlLCBQcm9tZXRoZXVzLCBQTEcgc3RhY2ssIERvY2tlciwgS3ViZXJuZXRlcywgR2l0bGFiQ0ksIEdpdEh1YiBBY3Rpb25zLCBKZW5raW5zIC4uLg
 
-- 💻 I’m currently working for a E-Commerce Company.
-- 🌱 I’m currently learning about Linux, OpenSource, Kubernetes, Helm, Security, Golang.
+- 🏢 I’m currently working for a E-Commerce Company.
+- 💻 I’m currently learning about Linux, OpenSource, Kubernetes, Helm, Security and I'm particularly interested in everything related to cloud-native and cloud technologies.
 - 😄 Hobbies : Football :soccer:, Swimming :swimmer:, Jogging :runner:, Walking :walking:.
 
 ## 👋 Connect With Me
