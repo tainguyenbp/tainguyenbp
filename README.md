@@ -19,4 +19,4 @@ U2tpbGxzOiBMaW51eCwgQmFzaCwgUHl0aG9uLCBBbnNpYmxlLCBQcm9tZXRoZXVzLCBQTEcgc3RhY2ss
 ### Contributing to Open-Source 🔥
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tainguyenbp&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/tainguyenbp)  
+![Profile views](https://tainguyenbp.github.io/)  
