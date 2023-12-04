@@ -17,6 +17,6 @@ U2tpbGxzOiBMaW51eCwgQmFzaCwgUHl0aG9uLCBBbnNpYmxlLCBQcm9tZXRoZXVzLCBQTEcgc3RhY2ss
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tainguyenbp)](https://github.com/anuraghazra/github-readme-stats)
 ## ⭐ GitHub Stats
 ### Contributing to Open-Source 🔥
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tainguyenbp&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tainguyenbp&show_icons=true&theme=dark#gh-dark-mode-only)  
 
 ![Profile views](https://komarev.com/ghpvc/?username=tainguyenbp)  
