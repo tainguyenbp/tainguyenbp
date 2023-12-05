@@ -19,4 +19,6 @@ U2tpbGxzOiBMaW51eCwgQmFzaCwgUHl0aG9uLCBBbnNpYmxlLCBQcm9tZXRoZXVzLCBQTEcgc3RhY2ss
 ### Contributing to Open-Source 🔥
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tainguyenbp&show_icons=true&theme=dark#gh-dark-mode-only)  
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/tainguyenbp/langs)](https://githubtrends.io)
+
 ![Profile views](https://komarev.com/ghpvc/?username=tainguyenbp)  
