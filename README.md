@@ -15,7 +15,7 @@ U2tpbGxz: TGludXg, QmFzaA, UHl0aG9u, R28, QW5zaWJsZQ, VGVycmFmb3Jt, UHJvbWV0aGV1
 
 ☁️ Cloud: 
 
-🔨 Tools: Vim <img src='https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png' alt='Vim' height='20'>, Xcode, Visual Studio Code, Atom, Postman, Jira, SonarQube, Neovim, SonarQube, 
+🔨 Tools: Vim <img src='https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png' alt='Vim' height='25'>, Xcode <img src='https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png' alt='Xcode' height='25'>, Visual Studio Code <img src='https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png' alt='Visual Studio Cod' height='25'>, Atom <img src='' alt='Vim' height='25'>, Postman <img src='' alt='Vim' height='25'>, Jira <img src='' alt='Vim' height='25'>, SonarQube <img src='' alt='Vim' height='25'>, Neovim <img src='' alt='Vim' height='25'>, SonarQube <img src='' alt='Vim' height='25'>, 
 
 💾 Database: 
 
