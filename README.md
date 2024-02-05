@@ -27,13 +27,13 @@ U2tpbGxz: TGludXg, QmFzaA, UHl0aG9u, R28, QW5zaWJsZQ, VGVycmFmb3Jt, UHJvbWV0aGV1
 
 🤿 DevOps: Bash, Docker, Kubernetes, CI/CD, Jenkins, Grafana, Loki, Prometheus, Thanos, VictoriaMetrics, Terraform, Ansible, Vault, Nginx, Consul, OpenTelemetry.
 
-☁️ Cloud: AWS, GCP, Microsoft Azure
+☁️ Cloud: AWS <img src='https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png' alt='AWS' height='25'>, GCP <img src='https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png' alt='GCP' height='25'>, Microsoft Azure <img src='https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png' alt='Microsoft Azure' height='25'>.
 
 💾 Database: PostgreSQL, MySQL, Redis, MongoDB, MariaDB, MSSQL.
 
 🔬 Analytics: Elasticsearch <img src='https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png' alt='Elasticsearch' height='25'>, Apache Spark <img src='https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png' alt='Apache Spark' height='25'>.
 
-🖥️ Operating system: Windows <img src='' alt='Jira' height='25'>, MacOS <img src='' alt='Windows' height='25'>, Linux <img src='' alt='Linux' height='25'>, Ubuntu <img src='' alt='Ubuntu' height='25'>, Fedora <img src='' alt='Fedora' height='25'>, Arch Linux <img src='' alt='Arch Linux' height='25'>, Linux Mint <img src='' alt='Linux Mint' height='25'>.
+🖥️ Operating system: Windows <img src='' alt='Windows' height='25'>, MacOS <img src='' alt='Windows' height='25'>, Linux <img src='' alt='Linux' height='25'>, Ubuntu <img src='' alt='Ubuntu' height='25'>, Fedora <img src='' alt='Fedora' height='25'>, Arch Linux <img src='' alt='Arch Linux' height='25'>, Linux Mint <img src='' alt='Linux Mint' height='25'>.
 
 - 🏢 SeKAmW0 Y3VycmVudGx5 d29ya2luZw Zm9y YQ RS1Db21tZXJjZQ Q29tcGFueQ.
 - 💻 SSdt Y3VycmVudGx5 bGVhcm5pbmc YWJvdXQ TGludXg, T3BlblNvdXJjZQ, S3ViZXJuZXRlcw, SGVsbQ, U2VjdXJpdHk, Q0kvQ0Q, UHl0aG9u, R29sYW5n and SeKAmW0 cGFydGljdWxhcmx5 aW50ZXJlc3RlZA aW4 ZXZlcnl0aGluZw cmVsYXRlZA dG8 Y2xvdWQtbmF0aXZl YW5k Y2xvdWQ dGVjaG5vbG9naWVz.
