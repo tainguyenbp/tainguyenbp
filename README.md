@@ -15,7 +15,7 @@ U2tpbGxz: TGludXg, QmFzaA, UHl0aG9u, R28, QW5zaWJsZQ, VGVycmFmb3Jt, UHJvbWV0aGV1
 
 ☁️ Cloud: 
 
-🔨 Tools: Vim <img src='https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png' alt='Vim' height='25'>, Xcode, Visual Studio Code, Atom, Postman, Jira, SonarQube, Neovim, SonarQube, 
+🔨 Tools: Vim <img src='https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png' alt='Vim' height='20'>, Xcode, Visual Studio Code, Atom, Postman, Jira, SonarQube, Neovim, SonarQube, 
 
 💾 Database: 
 
