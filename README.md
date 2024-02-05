@@ -6,10 +6,21 @@ T24 dGhl d2F5 U2l0ZQ UmVsaWFiaWxpdHk RW5naW5lZXJpbmc d2l0aA U2VydmVy UmVib290 RW
 Q3VycmVudGx5 Z3JhZHVhdGVk d2l0aA YQ YmFjaGVsb3Incw ZGVncmVl aW4 Q29tcHV0ZXI U2NpZW5jZQ.
 
 U2tpbGxz: TGludXg, QmFzaA, UHl0aG9u, R28, QW5zaWJsZQ, VGVycmFmb3Jt, UHJvbWV0aGV1cw, U2VjdXJpdHk, QVdT, QXp1cmU, UExH c3RhY2s, TEdUTQ c3RhY2s, RUxL c3RhY2s, RG9ja2Vy, S3ViZXJuZXRlcw, SGVsbQ, S3VzdG9taXpl, R2l0bGFiQ0k, R2l0SHVi QWN0aW9ucw, SmVua2lucw.
+🚍 Communication: https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png 
+
+🧰 Version Control:
 
 🤿 DevOps: 
 
 ☁️ Cloud: 
+
+🔨 Tools: 
+
+💾 Database: 
+
+🔬 Analytics
+
+🖥️ Operating system
 
 - 🏢 SeKAmW0 Y3VycmVudGx5 d29ya2luZw Zm9y YQ RS1Db21tZXJjZQ Q29tcGFueQ.
 - 💻 SSdt Y3VycmVudGx5 bGVhcm5pbmc YWJvdXQ TGludXg, T3BlblNvdXJjZQ, S3ViZXJuZXRlcw, SGVsbQ, U2VjdXJpdHk, Q0kvQ0Q, UHl0aG9u, R29sYW5n and SeKAmW0 cGFydGljdWxhcmx5 aW50ZXJlc3RlZA aW4 ZXZlcnl0aGluZw cmVsYXRlZA dG8 Y2xvdWQtbmF0aXZl YW5k Y2xvdWQ dGVjaG5vbG9naWVz.
