@@ -1,14 +1,14 @@
 # SGVsbG8 dGhlcmU 👋
-### aSdt YQ U2l0ZQ UmVsaWFiaWxpdHk RW5naW5lZXJpbmc ZnJvbQ VietNam.
+### SSdt YQ U2l0ZQ UmVsaWFiaWxpdHk RW5naW5lZXJpbmc - U1JF VGVhbXM ZnJvbQ VietNam.
 
-T24gdGhlIHdheSBTaXRlIFJlbGlhYmlsaXR5IEVuZ2luZWVyIHdpdGggU2VydmVyIFJlYm9vdCBFbmdpbmVlciBleHBlcmllbmNlIGFzIHdlbGwgYXMgU3lzdGVtIFJlYm9vdCBFbmdpbmVlciBhbmQgU2VydmljZSBSZXN0YXJ0IEVuZ2luZWVyIGV4cGVyaWVuY2Uu
+T24 dGhl d2F5 U2l0ZQ UmVsaWFiaWxpdHk RW5naW5lZXJpbmc d2l0aA U2VydmVy UmVib290 RW5naW5lZXI ZXhwZXJpZW5jZQ YXM d2VsbA U3lzdGVt UmVib290 RW5naW5lZXI YW5kIA U2VydmljZQ UmVzdGFydA RW5naW5lZXI ZXhwZXJpZW5jZQ.
 
 Q3VycmVudGx5IHB1cnN1aW5nIGJhY2hlbG9yIGRlZ3JlZSBpbiBDb21wdXRlciBTY2llbmNlLiBPcGVuIFNvdXJjZSBzb2Z0d2FyZSBleGNpdGVzIG1lLCBhbmQgSSBhbSBldmVyIHJlYWR5IHRvIGxlYXJuIG1vcmUu
 
 U2tpbGxzOiBMaW51eCwgQmFzaCwgUHl0aG9uLCBBbnNpYmxlLCBQcm9tZXRoZXVzLCBQTEcgc3RhY2ssIERvY2tlciwgS3ViZXJuZXRlcywgR2l0bGFiQ0ksIEdpdEh1YiBBY3Rpb25zLCBKZW5raW5zIC4uLg
 
 - 🏢 SeKAmW0 Y3VycmVudGx5 d29ya2luZw Zm9y YQ RS1Db21tZXJjZQ Q29tcGFueQ.
-- 💻 SeKAmW0 Y3VycmVudGx5 bGVhcm5pbmc YWJvdXQ TGludXg, T3BlblNvdXJjZQ, S3ViZXJuZXRlcw, SGVsbQ, U2VjdXJpdHk, Q0kvQ0Q, UHl0aG9u, R29sYW5n and SeKAmW0 cGFydGljdWxhcmx5 aW50ZXJlc3RlZA aW4 ZXZlcnl0aGluZw cmVsYXRlZA dG8 Y2xvdWQtbmF0aXZl YW5k Y2xvdWQ dGVjaG5vbG9naWVz.
+- 💻 SSdt Y3VycmVudGx5 bGVhcm5pbmc YWJvdXQ TGludXg, T3BlblNvdXJjZQ, S3ViZXJuZXRlcw, SGVsbQ, U2VjdXJpdHk, Q0kvQ0Q, UHl0aG9u, R29sYW5n and SeKAmW0 cGFydGljdWxhcmx5 aW50ZXJlc3RlZA aW4 ZXZlcnl0aGluZw cmVsYXRlZA dG8 Y2xvdWQtbmF0aXZl YW5k Y2xvdWQ dGVjaG5vbG9naWVz.
 - 😄 SG9iYmllcw: Rm9vdGJhbGw :soccer:, U3dpbW1pbmc :swimmer:, Sm9nZ2luZw :runner:, V2Fsa2luZw :walking:.
 
 ## 👋 Q29ubmVjdA V2l0aA TWU
