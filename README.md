@@ -7,7 +7,9 @@ Q3VycmVudGx5 Z3JhZHVhdGVk d2l0aA YQ YmFjaGVsb3Incw ZGVncmVl aW4 Q29tcHV0ZXI U2Np
 
 U2tpbGxz: TGludXg, QmFzaA, UHl0aG9u, R28, QW5zaWJsZQ, VGVycmFmb3Jt, UHJvbWV0aGV1cw, U2VjdXJpdHk, QVdT, QXp1cmU, UExH c3RhY2s, TEdUTQ c3RhY2s, RUxL c3RhY2s, RG9ja2Vy, S3ViZXJuZXRlcw, SGVsbQ, S3VzdG9taXpl, R2l0bGFiQ0k, R2l0SHVi QWN0aW9ucw, SmVua2lucw.
 
-🚍 Communication: [<img height='35' src='https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png'>]
+🚍 Communication: <img height='35' src='https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png'>
+ <img height='35' src='[https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png](https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png
+)'>
 
 🧰 Version Control:
 
