@@ -23,7 +23,7 @@ U2tpbGxz: TGludXg, QmFzaA, UHl0aG9u, R28, QW5zaWJsZQ, VGVycmFmb3Jt, UHJvbWV0aGV1
 
 ☎️ Erlang/Elixir: Erlang, Elixir, RabbitMQ.
 
-🧊 Apache: Solr
+🧊 Apache: Solr <img src='https://github.com/marwin1991/profile-technology-icons/assets/136815194/cc53c067-3f72-4e44-9922-d1e6c2fa14d0' alt='Solr' height='25'>.
 
 🤿 DevOps: Bash, Docker, Kubernetes, CI/CD, Jenkins, Grafana, Loki, Prometheus, Thanos, VictoriaMetrics, Terraform, Ansible, Vault, Nginx, Consul, OpenTelemetry.
 
