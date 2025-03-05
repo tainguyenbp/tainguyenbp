@@ -30,6 +30,11 @@ U2tpbGxz: TGludXg, QmFzaA, UHl0aG9u, R28, QW5zaWJsZQ, VGVycmFmb3Jt, UHJvbWV0aGV1
 
 ![Profile views](https://komarev.com/ghpvc/?username=tainguyenbp)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tainguyenbp&theme=transparent)
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tainguyenbp&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tainguyenbp&theme=transparent)
+
 # Nguyen Ngoc Tai - Site Reliability Engineer
 
 **Address:** [Address], [City, State, ZIP]  
